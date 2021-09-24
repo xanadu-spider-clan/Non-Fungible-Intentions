@@ -1,8 +1,11 @@
 # What intention do you bring to the Cardano Metaverse?
 
-The metaverse is here. What will you bring to it.
+The metaverse is here. What will you bring to it?
 
-Your task: send a message to this key: 12586269025
+## Your task:
+Place your intention on the permanent ledger by submitting Cardano transaction metadata at the key **12586269025**
+
+## How to do it: 
 
 ### If you know how to add metadata to a Cardano transaction
 1. Go for it!
