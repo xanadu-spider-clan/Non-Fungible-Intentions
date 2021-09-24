@@ -12,7 +12,7 @@ Place your intention on the permanent ledger by submitting Cardano transaction m
 2. Just make sure that you use the key 12586269025
 
 ### If you know someone who can help, then ask them for help
-1. There are a lot of people here this weekend who can help you!
+1. There are people here this weekend who can help you.
 2. Ask a new friend if they know how to add metadata to a transaction and if they won't mind helping you.
 
 ### If you'd like to try something on your own
